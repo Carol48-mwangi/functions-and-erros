@@ -26,7 +26,7 @@ To run this program, you can use Remix, an online Solidity IDE. Here’s how to 
 
 ## Authors
 
-- **Blockchain Developer** - Your Name or Handle
+- **Blockchain Developer** - Caroline Wairimu
 
 ## License
 
